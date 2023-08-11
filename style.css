@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 7px;
+  }
+  
+  body {
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .title {
+    color:black;
+    font-size: 48px;
+    text-align: center;
+    margin: 40px;
+  }
+  ul{
+   list-style: none;
+  }
+  img{
+    width: 70px;
+  }
+#error{
+    background-color: palevioletred;
+    width: fit-content;
+}
